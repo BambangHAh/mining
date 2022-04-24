@@ -1,0 +1,2 @@
+# mining
+For wallet mining
